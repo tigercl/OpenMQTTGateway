@@ -14,6 +14,8 @@ OpenMQTTGateway project goal is to concentrate in one firmware different technol
 
 <a href = "https://www.emqx.com/en?utm_source=github.com&utm_medium=referral&utm_campaign=OpenMQTTGateway-github-to-emqx-home"><img src="./docs/img/EMQ2.png" height="100"/></a>
 
+<a href = "https://www.emqx.com/en?utm_source=github.com&utm_medium=referral&utm_campaign=OpenMQTTGateway-github-to-emqx-home"><img src="./docs/img/EMQ2.png" height="50"/></a>
+
 ## Documentation
 
 The documentation is [here](https://docs.openmqttgateway.com)
